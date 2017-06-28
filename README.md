@@ -1,6 +1,6 @@
 ## EchoLink
 
-EchoLink is LinkedIn on blockchain with verified school, work, and skill 
+EchoLink is LinkedIn on blockchain with verified education, jobs, and skills 
 
 
 ### For Hiring Companies
