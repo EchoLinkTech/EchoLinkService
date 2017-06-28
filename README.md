@@ -9,7 +9,7 @@ EchoLink saves time and resources spent on verifying school, work, and skill inf
 
 #### Whitepaper
 
-<a href="https://github.com/EchoBlockchain/EchoLink/blob/master/CnEchoLinkGithub.pdf">EchoLink English Whitepaper</a>
+<a href="https://github.com/EchoBlockchain/EchoLink/blob/master/EchoLinkGithub.pdf">EchoLink English Whitepaper</a>
 
-<a href="https://github.com/EchoBlockchain/EchoLink/blob/master/EchoLinkGithub.pdf">EchoLink 中文白皮书</a>
+<a href="https://github.com/EchoBlockchain/EchoLink/blob/master/CnEchoLinkGithub.pdf">EchoLink 爱科链中文白皮书</a>
 
