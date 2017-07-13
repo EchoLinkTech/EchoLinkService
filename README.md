@@ -1,6 +1,6 @@
-## EchoLink
+## Echo
 
-Professional and Recruiting Platform with Verified Info on Blockchain - LinkedIn on Blockchain
+Professional and Recruiting Network with Verified Info on Blockchain - LinkedIn on Blockchain
 
 #### Whitepaper
 
