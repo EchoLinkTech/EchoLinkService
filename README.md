@@ -4,6 +4,6 @@ Professional and Recruiting Network with Verified Info on Blockchain - LinkedIn 
 
 #### Whitepaper
 
-<a href="https://github.com/EchoBlockchain/EchoLink/blob/master/Echo_github.pdf">Echo Whitepaper</a>
+<a href="https://github.com/EchoLinkTech/Echo/blob/master/Echo_github.pdf">Echo Whitepaper</a>
 
 
