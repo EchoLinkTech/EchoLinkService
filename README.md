@@ -2,7 +2,7 @@
 
 Professional and Recruiting Network with Verified Info on Blockchain - LinkedIn on Blockchain
 
-Reference implementation on Ethereum. Other blockchains are supported.
+Reference implementation on Ethereum and Neo-Project. Other blockchains are supported.
 
 #### Credential Creation
 Smart contract to create inmutable record of credential from issuer to recipient
