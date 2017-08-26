@@ -20,12 +20,12 @@ pragma solidity ^0.4.11;
 import "./StandardToken.sol";
 
 
-/// @title Loopring Protocol Token.
-/// For more information about this token sale, please visit https://loopring.org
-/// @author Kongliang Zhong - <kongliang@loopring.org>, Daniel Wang - <daniel@loopring.org>.
+/// @title EchoLink Protocol Token.
+/// For more information about this token sale, please visit http://EchoLink.info
+/// @author Steve Chen - <steve@echolink.tech>.
 contract LoopringToken is StandardToken {
-    string public constant NAME = "LoopringCoin";
-    string public constant SYMBOL = "LRC";
+    string public constant NAME = "EchoCoin";
+    string public constant SYMBOL = "EKO";
     uint public constant DECIMALS = 18;
 
     /// During token sale, we use one consistent price: 5000 LRC/ETH.
