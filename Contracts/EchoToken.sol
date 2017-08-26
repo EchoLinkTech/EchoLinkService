@@ -23,7 +23,7 @@ import "./StandardToken.sol";
 /// @title EchoLink Protocol Token.
 /// For more information about this token sale, please visit http://EchoLink.info
 /// @author Steve Chen - <steve@echolink.tech>.
-contract LoopringToken is StandardToken {
+contract EcholinkToken is StandardToken {
     string public constant NAME = "EchoCoin";
     string public constant SYMBOL = "EKO";
     uint public constant DECIMALS = 18;
