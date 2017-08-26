@@ -71,15 +71,15 @@ contract LoopringToken is StandardToken {
     bool public unsoldTokenIssued = false;
 
     /// Minimum amount of funds to be raised for the sale to succeed. 
-    uint256 public constant GOAL = 50000 ether;
+    uint256 public constant GOAL = 25000 ether;
 
     /// Maximum amount of fund to be raised, the sale ends on reaching this amount.
-    uint256 public constant HARD_CAP = 120000 ether;
+    uint256 public constant HARD_CAP = 50000 ether;
 
     /// Maximum unsold ratio, this is hit when the mininum level of amount of fund is raised.
     uint public constant MAX_UNSOLD_RATIO = 675; // 67.5%
 
-    /// Base exchange rate is set to 1 ETH = 5000 LRC.
+    /// Base exchange rate is set to 1 ETH = 5000 EKO.
     uint256 public constant BASE_RATE = 5000;
 
     /// A simple stat for emitting events.
