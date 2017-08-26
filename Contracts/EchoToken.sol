@@ -232,9 +232,9 @@ contract LoopringToken is StandardToken {
      * INTERNAL FUNCTIONS
      */
   
-    /// @dev Compute the amount of LRC token that can be purchased.
-    /// @param ethAmount Amount of Ether to purchase LRC.
-    /// @return Amount of LRC token to purchase
+    /// @dev Compute the amount of EKO token that can be purchased.
+    /// @param ethAmount Amount of Ether to purchase EKO.
+    /// @return Amount of EKO token to purchase
     function computeTokenAmount(uint ethAmount) internal constant returns (uint tokens) {
         uint phase = (block.number - firstblock).div(BLOCKS_PER_PHASE);
 
