@@ -28,7 +28,7 @@ contract LoopringToken is StandardToken {
     string public constant SYMBOL = "EKO";
     uint public constant DECIMALS = 18;
 
-    /// During token sale, we use one consistent price: 5000 LRC/ETH.
+    /// During token sale, we use one consistent price: 5000 EKO/ETH.
     /// We split the entire token sale period into 10 phases, each
     /// phase has a different bonus setting as specified in `bonusPercentages`.
     /// The real price for phase i is `(1 + bonusPercentages[i]/100.0) * BASE_RATE`.
