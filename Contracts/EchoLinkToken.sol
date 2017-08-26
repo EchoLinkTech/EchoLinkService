@@ -66,7 +66,7 @@ contract EchoLinkToken is StandardToken {
     /// This can only be modified once by the owner of `target` address.
     uint public firstblock = 0;
 
-    /// Indicates whether unsold token have been issued. This part of LRC token
+    /// Indicates whether unsold token have been issued. This part of EKO token
     /// is managed by the project team and is issued directly to `target`.
     bool public unsoldTokenIssued = false;
 
