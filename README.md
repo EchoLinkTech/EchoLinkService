@@ -1,4 +1,4 @@
-## Echo
+## EchoLink
 
 Verified Education/Skill Info and General Notary Service on Blockchain.
 
@@ -12,6 +12,6 @@ W3j interface to inspect the content of the credential. Results in encypted form
 
 #### Whitepaper
 
-<a href="https://github.com/EchoLinkTech/Echo/blob/master/Echo_github.pdf">Echo Whitepaper</a>
+<a href="https://github.com/EchoLinkTech/Echo/blob/master/EchoLink_github.pdf">EchoLink Whitepaper</a>
 
 
