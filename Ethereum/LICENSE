@@ -1,0 +1,6 @@
+(c) Copyright 2018 DLT Labs, all rights reserved, except for the following:
+	* CredentialsStore.sol
+	* EchoLinkToken.sol
+	* Ownable.sol
+	* Migrations.sol
+	* SafeMath.sol
