@@ -15,8 +15,5 @@ Smart contract to create inmutable record of credential from issuer to recipient
 #### Web Interface
 W3j interface to inspect the content of the credential. Results in encypted format and can be resolved through Echo name mapping service
 
-#### Whitepaper
-
-<a href="https://github.com/EchoLinkTech/Echo/blob/master/EchoLink_github.pdf">EchoLink Whitepaper</a>
 
 
